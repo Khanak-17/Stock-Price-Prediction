@@ -1,2 +1,1 @@
- #Stock-Price-Prediction
-This project is a comprehensive application of data science and machine learning techniques to predict Apple Inc. (AAPL) stock prices using historical financial data. It includes the full data science pipeline: data collection, cleaning, exploration, visualization, feature engineering, and predictive modeling using both LSTM (deep learning) and Random Forest (ensemble method).
+
