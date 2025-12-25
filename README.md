@@ -56,8 +56,6 @@ run the jupyter notebook stock_price_prediction.ipynb
 
 ---
 
-About Me
-This project was created as part of an academic capstone during my MS in Data Science. I'm currently open to full-time roles in Data Science and Machine Learning.
 
 
 
